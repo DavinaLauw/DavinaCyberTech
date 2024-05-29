@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I grew up in Indonesia
--->
+
