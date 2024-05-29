@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/DavinaLauw/ActiveDirectoryLab)
   
 
 <h2> 🤳 Connect with me:</h2>
